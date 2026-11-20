@@ -30,9 +30,9 @@ I care about clear application structure, reliable data flows and changes that a
 | --- | --- | --- |
 | HINDUISM.RU | A structured knowledge platform built with Next.js and PostgreSQL, with search, editorial tools and a content import workflow. | [Website](https://hinduism.ru) |
 | MOTOYAMA.ONE | My developer portfolio and professional website, using Next.js, React and Node.js API routes. | [Website](https://motoyama.one) |
-| PASSPORT | An eight-language website for a web-project handover review service, with a static page generator, JavaScript navigation and browser QA scripts. | [Website](https://passport.motoyama.one) · [Source](https://github.com/motoyama-dev/passport-static) |
-| MOTOYAMA.ORG | A responsive interactive identity website with a modular JavaScript and Canvas rendering system. | [Website](https://motoyama.org) · [Source](https://github.com/motoyama-dev/motoyama-org) |
-| TheUnderMATRIX | An interactive ecosystem directory with searchable content, tabbed navigation and responsive layouts. | [Website](https://theundermatrix.com) · [Source](https://github.com/motoyama-dev/the-under-matrix) |
+| PASSPORT | An eight-language website for a web-project handover review service, with a static page generator, JavaScript navigation and browser QA scripts. | [Website](https://passport.motoyama.one) |
+| MOTOYAMA.ORG | A responsive interactive identity website with a modular JavaScript and Canvas rendering system. | [Website](https://motoyama.org) |
+| TheUnderMATRIX | An interactive ecosystem directory with searchable content, tabbed navigation and responsive layouts. | [Website](https://theundermatrix.com) |
 
 Further work and project details are available in my [portfolio](https://motoyama.one/portfolio).
 
