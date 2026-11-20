@@ -1,45 +1,70 @@
-# Dayiawan H. Motoyama
+![MOTOYAMA — Frontend / Full-Stack JavaScript Developer](./assets/github-banner.png)
 
-**Fullstack / Frontend JavaScript Developer**
+**Dayiawan MOTOYAMA**  
+Frontend / Fullstack JavaScript Developer
 
-I develop and maintain websites and web applications, from responsive interfaces and API integrations to databases and deployment. My main focus is the JavaScript ecosystem: React, Next.js, TypeScript and Node.js. I also work with Vue.js and PHP/Laravel.
+I develop and maintain web applications, working across interfaces, APIs, databases and deployment. My main stack is React, Next.js, TypeScript and Node.js. I also work with Vue.js and PHP/Laravel.
 
-I care about clear application structure, reliable data flows and changes that are straightforward to review and maintain. My work includes developing new features, improving existing projects, technical SEO and supporting applications in production.
+My work includes application architecture, responsive interfaces, backend integrations, technical SEO, performance optimization and Linux production infrastructure. I'm open to Frontend / Fullstack JavaScript roles and commercial web development projects.
 
 [Portfolio](https://motoyama.one) · [LinkedIn](https://www.linkedin.com/in/motoyama/) · [Email](mailto:info@motoyama.one)
 
-## Technologies
+## Selected Projects
 
-| Area | Technologies |
-| --- | --- |
-| Frontend | React, Next.js, Vue.js, JavaScript ES6+, TypeScript, HTML5, CSS3, SCSS |
-| State and APIs | Redux Toolkit, RTK Query, REST APIs, GraphQL |
-| Backend and data | Node.js, Express, PHP, Laravel, PostgreSQL, MySQL, MongoDB |
-| Tooling and infrastructure | Git, Docker, CI/CD, Webpack, Vite, Linux, Nginx |
+### [HINDUISM.RU](https://hinduism.ru)
 
-## Engineering focus
+An educational platform and structured knowledge base on Hinduism, Indian philosophy and traditions. I built the Next.js application around a PostgreSQL content model, with search for readers and an admin interface for editing and publishing articles. The content workflow also supports preparing and importing material for publication.
 
-- Component and application architecture, modular code and maintainable interfaces.
-- API integration, input validation, authentication and database-backed features.
-- Responsive layouts, accessibility, performance and technical SEO.
-- Controlled deployment, Linux infrastructure and practical support for existing applications.
+### [MOTOYAMA.ONE](https://motoyama.one)
 
-## Selected projects
+My portfolio and web development services site. I build and maintain the Next.js application, from responsive page layouts and server routes to backend integrations, technical SEO and performance work. I also maintain the production deployment.
 
-| Project | Engineering work | Links |
-| --- | --- | --- |
-| HINDUISM.RU | A structured knowledge platform built with Next.js and PostgreSQL, with search, editorial tools and a content import workflow. | [Website](https://hinduism.ru) |
-| MOTOYAMA.ONE | My developer portfolio and professional website, using Next.js, React and Node.js API routes. | [Website](https://motoyama.one) |
-| PASSPORT | An eight-language website for a web-project handover review service, with a static page generator, JavaScript navigation and browser QA scripts. | [Website](https://passport.motoyama.one) |
-| MOTOYAMA.ORG | A responsive interactive identity website with a modular JavaScript and Canvas rendering system. | [Website](https://motoyama.org) |
-| TheUnderMATRIX | An interactive ecosystem directory with searchable content, tabbed navigation and responsive layouts. | [Website](https://theundermatrix.com) |
+- [**PROJECT PASSPORT**](https://passport.motoyama.one) — A site for a technical review service during website handover. I built eight localized versions with right-to-left layouts where needed, a Python static site generator, and browser checks for navigation.
+- [**MOTOYAMA.ORG**](https://motoyama.org) — An interactive personal site. I built the graphics with JavaScript modules and Canvas, with responsive rendering, pointer and touch controls, and support for reduced motion.
+- [**The Under MATRIX**](https://theundermatrix.com) — A directory of projects across the MOTOYAMA ecosystem. I used tabs, search and filtering to make the collection easier to navigate on desktop and mobile.
 
-Further work and project details are available in my [portfolio](https://motoyama.one/portfolio).
+**More projects:** [motoyama.one/portfolio](https://motoyama.one/portfolio)
+
+## Technology Stack
+
+### Frontend
+
+<img src="./assets/tech/javascript.svg" alt="JavaScript" width="36" height="36"> <img src="./assets/tech/typescript.svg" alt="TypeScript" width="36" height="36"> <img src="./assets/tech/react.svg" alt="React" width="36" height="36"> <img src="./assets/tech/nextjs.svg" alt="Next.js" width="36" height="36"> <img src="./assets/tech/vuejs.svg" alt="Vue.js" width="36" height="36"> <img src="./assets/tech/html5.svg" alt="HTML5" width="36" height="36"> <img src="./assets/tech/css3.svg" alt="CSS3" width="36" height="36"> <img src="./assets/tech/sass.svg" alt="Sass (SCSS)" width="36" height="36">
+
+JavaScript, TypeScript, React, Next.js, Vue.js, HTML5, CSS3, SCSS
+
+### Backend & APIs
+
+<img src="./assets/tech/nodejs.svg" alt="Node.js" width="36" height="36"> <img src="./assets/tech/express.svg" alt="Express" width="36" height="36"> <img src="./assets/tech/php.svg" alt="PHP" width="36" height="36"> <img src="./assets/tech/laravel.svg" alt="Laravel" width="36" height="36">
+
+Node.js, Express, PHP, Laravel, REST APIs, GraphQL
+
+### Databases & State Management
+
+<img src="./assets/tech/postgresql.svg" alt="PostgreSQL" width="36" height="36"> <img src="./assets/tech/mysql.svg" alt="MySQL" width="36" height="36"> <img src="./assets/tech/mongodb.svg" alt="MongoDB" width="36" height="36">
+
+PostgreSQL, MySQL, MongoDB, Redux Toolkit, RTK Query
+
+### Tools & DevOps
+
+<img src="./assets/tech/git.svg" alt="Git" width="36" height="36"> <img src="./assets/tech/docker.svg" alt="Docker" width="36" height="36"> <img src="./assets/tech/linux.svg" alt="Linux" width="36" height="36"> <img src="./assets/tech/nginx.svg" alt="Nginx" width="36" height="36"> <img src="./assets/tech/webpack.svg" alt="Webpack" width="36" height="36"> <img src="./assets/tech/vite.svg" alt="Vite" width="36" height="36">
+
+Git, Docker, Linux, Nginx, Webpack, Vite, CI/CD
+
+## Engineering Focus
+
+- **Application Architecture:** Modular code, reusable components and clear interfaces between application layers.
+- **APIs & Data:** REST and GraphQL integrations, authentication, application state, and data flow between the browser, services and databases.
+- **Frontend Engineering:** Responsive layouts, accessibility, page performance and technical SEO.
+- **Infrastructure & Deployment:** Linux deployments, server configuration, CI/CD and production maintenance.
+
+## Professional Community
+
+[Habr — Technical Articles](https://habr.com/ru/users/MOTOYAMA/articles/) · [VK — WebDevServ](https://vk.com/webdevserv) · [Telegram — WebDevServ](https://t.me/WebDevServ) · [YouTube — IT Server](https://youtube.com/@it-server)
 
 ## Contact
 
-Open to Frontend / Fullstack JavaScript roles and commercial web development projects.
-
-- Email: [info@motoyama.one](mailto:info@motoyama.one)
-- LinkedIn: [linkedin.com/in/motoyama](https://www.linkedin.com/in/motoyama/)
-- Personal website: [motoyama.org](https://motoyama.org)
+- **Portfolio:** [motoyama.one](https://motoyama.one)
+- **LinkedIn:** [linkedin.com/in/motoyama](https://www.linkedin.com/in/motoyama/)
+- **Email:** [info@motoyama.one](mailto:info@motoyama.one)
+- **Personal Website:** [motoyama.org](https://motoyama.org)
